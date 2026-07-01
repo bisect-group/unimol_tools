@@ -30,7 +30,7 @@ setup(
         "rdkit",
         "pyyaml",
         "addict",
-        "scikit-learn>",
+        "scikit-learn",
         "numba",
         "tqdm",
         "hydra-core",
